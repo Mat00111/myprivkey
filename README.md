@@ -1,0 +1,2 @@
+# myprivkey
+no honeypot 
